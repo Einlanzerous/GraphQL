@@ -1,0 +1,7 @@
+{
+  "name": "first-app-graph-ql",
+  "dependencies": {
+    "apollo-server": "^2.13.0",
+    "graphql": "^15.0.0"
+  }
+}
